@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["antony@northcollective.se"]
 
   spec.summary       = "Swedish salary system calculations"
-  spec.description   = "Calculate workable hours, public holidays, and half-days according to Swedish labour law and common collective agreement practices."
+  spec.description   = "Calculate workable hours and statutory public holidays according to Swedish labour law."
   spec.homepage      = "https://github.com/antonysastre/salario"
   spec.license       = "MIT"
 
